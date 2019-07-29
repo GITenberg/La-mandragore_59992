@@ -1,0 +1,30 @@
+_repo: La-mandragore_59992
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Pille, Marcel
+    gutenberg_agent_id: '50721'
+    url: http://www.gutenberg.org/2009/agents/50721
+creator:
+  author:
+    agent_name: Lorrain, Jean
+    aliases:
+    - Duval, Paul Alexandre Martin
+    - Lorrain, J. (Jean)
+    birthdate: 1855
+    deathdate: 1906
+    gutenberg_agent_id: '41171'
+    url: http://www.gutenberg.org/2009/agents/41171
+description: ''
+gutenberg_issued: '2019-07-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59992'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: La mandragore
+url: http://www.gutenberg.org/ebooks/59992
